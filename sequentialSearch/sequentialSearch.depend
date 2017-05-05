@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491275498 source:c:\users\sai\dropbox\cab301\wk5\sequentialsearch\main.cpp
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<iomanip>
+
